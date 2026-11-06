@@ -1,4 +1,4 @@
-for i = 1, 10 do
+
 local part = Instance.new("Part")
 part.Name= ("yea")
 part.Shape = Enum.PartType.Block
